@@ -1,5 +1,6 @@
 ## Challenge Description
 
+This is an obfuscated python file.
 ``` markdown
 u
 ```
